@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KhenchouchMoha
-- 👀 I’m interested in Angular , Angular  , machine learning , deep learning and artifical inteligence
+- 👀 I’m interested in Angular , Django ,python, machine learning , deep learning and artifical inteligence
 
 
 <!---
